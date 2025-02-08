@@ -5,7 +5,7 @@
     "startDate": "Jan, 2023",
     "endDate": "Present",
     "experiences": ["Build and maintain web pages using Bootstrap, HTML and Javascript, features, and functionalities for the brand’s online store and related websites.", "Created psd files using photoshop to build weekly homepage designs"],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/download.png"
   },
   {
     "role": "Web Developer",
@@ -13,17 +13,17 @@
     "startDate": "Apr, 2021",
     "endDate": "Oct, 2022",
     "experiences": ["Write clean, efficient code for both front-end (user-facing elements) and back-end (server-side logic)", "Use front-end technologies like HTML, CSS, JavaScript (React, Angular) ,back-end technologies like Node.js, PHP, or Python, CMS like Wordpress and Drupal and Design in Adobe Photoshop and Adobe XD to build dynamic, scalable websites."],
-    "imageSrc": "history/microsoft.png"
+    "imageSrc": "history/logo-r2.png"
   },
   {
     "role": "Junior Cross-Platform Software Engineer",
-    "organisation": "Quadrant w",
+    "organisation": "Quadrant 2",
     "startDate": "Jun, 2020",
     "endDate": "Nov, 2020",
     "experiences": [
       "Creating apps in Nativescript using Angular, Vue, Typescript",
       "Impleneting and retracting global style sheets"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/66914bf5b359637979ffae9a_Q2-Logo_CMYK-p-500.png"
   }
 ]
