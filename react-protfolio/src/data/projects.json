@@ -1,26 +1,18 @@
 [
   {
-    "title": "Project A",
+    "title": "To Do list",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "In this project, PHP and MySQL are used to create a  effective To-Do List application. This project's goal is to give users the ability to plan, organize, and create their daily chores. For long-term data management, the application will store tasks in a MySQL database. Tasks can be added, updated, deleted, and marked as finished by users.",
+    "skills": ["PHP", "MySQL"],
+    "demo": "https://github.com/mehakSadique/To-Do-Liat",
+    "source": "https://github.com/mehakSadique/To-Do-Liat"
   },
   {
-    "title": "Project B",
+    "title": "Merit Adminstration",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "In this project, WordPress, management system (CMS), hosted on Amazon Web Services (AWS) Lightsail, is used to create and launch a dynamic website. With its adaptable design, easy-to-use navigation, and effective content management tools, the website will function as an educational and entertaining platform.",
+    "skills": ["Wordpress", "Photoshop"],
+    "demo": "https://meritadministration.com/",
+    "source": ""
   }
 ]
