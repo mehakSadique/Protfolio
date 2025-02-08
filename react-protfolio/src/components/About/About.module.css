@@ -77,13 +77,16 @@
   .content {
     flex-direction: column;
   }
-
+.title{
+  color:white;
+}
   .aboutImage {
     display: none;
   }
 
   .aboutItems {
     margin-top: 29px;
+    color:white;
   }
 
   .aboutItem {
